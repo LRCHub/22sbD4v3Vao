@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ウーニャカ",
+  "base_artist": "夏色まつり",
+  "createdAt": "2025-12-27T07:13:15.598861Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ウーニャカ",
+      "artist": "夏色まつり",
+      "has_synced": false,
+      "path": "select/pl_01_ウーニャカ_夏色まつり.txt"
+    }
+  ]
+}
